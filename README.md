@@ -1,4 +1,4 @@
-# <👋 Namaste, World! />
+# <👋 Hello, World! />
 
 I'm **Sumit**, a passionate **React.js Developer** who loves building dynamic and user-friendly web applications.  
 Currently learning, building, and sharing my journey in the frontend world. 🚀
