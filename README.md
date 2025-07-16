@@ -23,7 +23,7 @@ Currently learning, building, and sharing my journey in the frontend world. 🚀
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/sumit-kumar-0b88511b7)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)]
 
 
