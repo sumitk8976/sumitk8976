@@ -1,16 +1,31 @@
-## Hi there 👋
+# <👋 Namaste, World! />
 
-<!--
-**sumitk8976/sumitk8976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sumit**, a passionate **React.js Developer** who loves building dynamic and user-friendly web applications.  
+Currently learning, building, and sharing my journey in the frontend world. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 💻 I'm currently working on: `React Projects`, `Portfolio Website`, `UI Components`
+- 🌱 I’m currently learning: `Redux Toolkit`, `TypeScript`, `Tailwind CSS`
+- ❓ Ask me about: `React`, `JavaScript`, `Frontend Projects`, `GitHub`, `Resume Help`
+- ⚡ Fun fact: I love clean code and coffee ☕
+
+---
+
+### 🔧 My Tech Stack
+
+- **Frontend**: React.js, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap  
+- **Tools**: Git, VS Code, GitHub, Chrome DevTools  
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)]
+
+
+
+
